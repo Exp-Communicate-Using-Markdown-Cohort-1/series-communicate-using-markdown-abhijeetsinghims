@@ -8,3 +8,9 @@
 
 
 ![Image of India Gate](https://images.news18.com/ibnlive/uploads/2022/01/indiagate-16430470974x3.jpg?impolicy=website&width=640&height=480)
+
+
+```
+for i in range(0,j,-1)
+  print("This is python")
+```
