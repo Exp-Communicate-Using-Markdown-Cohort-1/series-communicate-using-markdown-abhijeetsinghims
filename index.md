@@ -14,3 +14,7 @@
 for i in range(0,j,-1)
   print("This is python")
 ```
+
+- [X] This is a completed task
+- [ ] This is an incomplete task
+- [X] This is the second completed task
